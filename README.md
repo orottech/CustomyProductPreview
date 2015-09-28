@@ -1,2 +1,1 @@
-# customy
-Customy Free Magento Extensions
+# Customy Product Preview Magento Extension
